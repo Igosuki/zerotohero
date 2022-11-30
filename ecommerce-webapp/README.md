@@ -12,3 +12,5 @@
 - Sanity : https://sanity.io
 - Framer motion : https://www.framer.com/motion/
 - Gen UI with Figma : https://www.figma.com/community/plugin/949398715671878472/Figma-to-React-%7C-CopyCat-Community-Edition
+- Schedule with inngest : https://www.inngest.com/?ref=nav
+- Vercel
